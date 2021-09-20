@@ -22,5 +22,5 @@ Follow the steps for executing
 
 --------------------------------------------------
 
-In case of any error feel free to contact developer at: https://codeclerks.com/user/myb1
+In case of any error feel free to contact developer at: ybabar1@gmail.com
 Feedback will be appreciated :)
